@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6L5YYYm7sgS_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">013 Estilos de negociación</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="013_Estilos_de_negociación_ORG">
+    <organization identifier="013_Estilos_de_negociación_ORG">
+      <title>013 Estilos de negociación</title>
+      <item identifier="Objeciones_SCO" isvisible="true" identifierref="__6L5YYYm7sgS_course_id_RES">
+        <title>013 Estilos de negociación</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6L5YYYm7sgS_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6Kn5GAI9pH9_0_56_1920x1080.mp4" />
+      <file href="mobile/poster_6Qd8kKWfTiJ_video_6Kn5GAI9pH9_0_56_1920x1080.jpg" />
+      <file href="mobile/5XvB5JSUAwu_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="story_content/5tsZchbZlPr_44100_56_0.mp3" />
+      <file href="mobile/60e6aeJ1P3E_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="mobile/6QqhGVYtI5n_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="mobile/6HN2moGI3lL_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="mobile/5h5po7VR2WC_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="story_content/5wOeMIhRHEn_44100_56_0.mp3" />
+      <file href="mobile/6kNUzXlOlQS_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="mobile/6DKtjrgoVcK_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="story_content/6lS2ZMXY5yh_44100_56_0.mp3" />
+      <file href="mobile/5h5po7VR2WC_80_P_0_0_1920_139_DX1440_DY1440_CX1503_CY109.png" />
+      <file href="mobile/6lt6rH6F6JI_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="mobile/5mv1Kf8LQat_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="story_content/6mfPSTkbcLH_44100_56_0.mp3" />
+      <file href="mobile/5dPQsFfBCPM_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="mobile/6OpvwbprRok_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="story_content/6GzHiTYmQaM_44100_56_0.mp3" />
+      <file href="mobile/675SxRacdVj_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="mobile/6lTQEPsefBT_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="story_content/6FHXyeftiw3_44100_56_0.mp3" />
+      <file href="mobile/6p0w1IJE3Rn_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="mobile/5sAp5xeXCyE_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="story_content/5X0FlrAWXWN_44100_56_0.mp3" />
+      <file href="mobile/6byAa8WhNjJ_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="mobile/5odCK8UflwE_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="story_content/6dMGCu1p37b_44100_56_0.mp3" />
+      <file href="mobile/5xpkcAunu56_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="mobile/5q3HhOCFyEs_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="mobile/6oXx0UCfThg_80_DX1440_DY1440_CX1509_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_5oi3XF84Vor.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5fLx2i7z55k.js" />
+      <file href="html5/data/js/5joJ4Pyznqe.js" />
+      <file href="html5/data/js/5k7FHyv2wHt.js" />
+      <file href="html5/data/js/5mnFB3tX4qA.js" />
+      <file href="html5/data/js/5sH31NkNWys.js" />
+      <file href="html5/data/js/5Vqko6NzyyF.js" />
+      <file href="html5/data/js/5xWamI57cNO.js" />
+      <file href="html5/data/js/5y6KxTXe5UV.js" />
+      <file href="html5/data/js/5Z971RujoHK.js" />
+      <file href="html5/data/js/69cXWwnHHsW.js" />
+      <file href="html5/data/js/6btqkoN9ydA.js" />
+      <file href="html5/data/js/6C7GmnpjslZ.js" />
+      <file href="html5/data/js/6DyYfdhUVhY.js" />
+      <file href="html5/data/js/6E1kvEviyMY.js" />
+      <file href="html5/data/js/6h3b35IoUe1.js" />
+      <file href="html5/data/js/6Rp7idzLLr4.js" />
+      <file href="html5/data/js/6TJtC3iiebk.js" />
+      <file href="html5/data/js/6VJvPeEETDf.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
